@@ -53,3 +53,7 @@ An opinionated curated list of awesome open source frameworks, libraries and sof
 - [react-jsx-i18N](https://github.com/indico/react-jsx-i18n): Gettext-enhanced React components
 - [react-overridable](https://github.com/indico/react-overridable): Overridable React components.
 - [React-SearchKit](https://github.com/inveniosoftware/react-searchkit): React components library to build search interfaces.
+
+### Java
+- [ossgang-commons](https://github.com/ossgang/ossgang-commons): Collection of useful Java utilities: Maybe, ObservableValue, Awaitables
+- [ossgang-spring-wonderland](https://github.com/ossgang/ossgang-spring-wonderland): A Wonderland Mode for Spring: Invoke the same application with different profile-combinations, based on naming conventions
